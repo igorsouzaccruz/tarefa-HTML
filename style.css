@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+    padding: 20px 0px;
+    font-size: 1.5rem;
+}
+h2 {
+    font-weight: bolder;
+    padding: 30px 0px;
+}
+
+p {
+    text-align: left;
+    padding: 10px 10px;
+}
+
+#index {
+    margin: auto 16%;
+}
+
+.header {
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+
+.menu {
+    background-color: #FFFFFF;
+    text-align: right;
+    padding: 30px 10px;    
+}
+.menu img {
+    display: flex;
+    text-align: left;
+    position: absolute;
+}
+
+.menu ul li {
+    display: inline-block;  
+    margin-right: 0%;
+}
+
+
+.menu ul li a {
+    display: block;
+    color: rgb(126, 44, 126);
+    padding: 30px 0px;
+}
+
+.img-capa{
+    display: block;
+    margin: 0px auto;
+}
+
+#contato h1,p{
+    padding: 10px 0px;
+}
+
+.MEC{
+    padding: 10px;
+}
+.MEC h2{
+    padding: 0;
+}
+
+.MEC ol{
+    padding: 0 30px;
+}
+
+.descricao{
+    height: 40px;
+    width: 170px;
+    display: block;
+}
+
+form p {
+    padding: 5px 0px;
+    margin: 0;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer hr{
+    border: 2px solid rgb(116, 116, 231);
+}
